@@ -1,4 +1,4 @@
-<img src=(yakocat.png) width=100>
+<img src='yaktocat.png' width=100>
 
 # 테스트
 

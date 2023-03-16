@@ -1,4 +1,4 @@
-<img src='yaktocat.png' width=100>
+<img src='yaktocat(1).png' width=100>
 <img src='고양이.png' width=100>
 <img src='webraw.png' width=100>
 

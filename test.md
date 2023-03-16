@@ -1,6 +1,6 @@
-<img src='yaktocat(1).png' width=100>
-<img src='고양이.png' width=100>
-<img src='webraw.png' width=100>
+<img src='/images/yaktocat(1).png' width=100>
+<img src='/images/고양이.png' width=100>
+<img src='/images/webraw.png' width=100>
 
 
 # 테스트
